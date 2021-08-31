@@ -1,6 +1,6 @@
 ### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="30px"> I'm Vishal and this is my profile!
 
-![Discord Server](https://discord.gg/kMCpgYUAMV)
+[Discord Server](https://discord.gg/kMCpgYUAMV)
 
 ---
 
