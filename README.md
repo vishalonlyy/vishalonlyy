@@ -6,10 +6,7 @@
   <a href="mailto:falgunisarkar526@gmail.com">
   <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/lostgirlvintage">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lostgirlvintage_">
+<a href="https://www.instagram.com/">
   <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/lostgirljourney">
@@ -43,19 +40,4 @@
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
 - <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
-
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
-</p>
-
-<hr>
-
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
-</p>
 
