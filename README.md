@@ -14,7 +14,7 @@ Join Support From Grufy Project To contact me
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-
+<a href="https://www.github.com/vishal889"><img src="https://komarev.com/ghpvc/?username=vishal889&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="vishal github profile views" /></a>
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
