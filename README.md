@@ -10,6 +10,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
+![Discord](https://discord.c99.nl/widget/theme-3/1014198346656792667.png)
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <a href="https://www.github.com/vishal889"><img src="https://komarev.com/ghpvc/?username=vishal889&style=for-the-badge&color=0F194C&label=👁+PROFILE+VIEWS" alt="vishal github profile views" /></a>
