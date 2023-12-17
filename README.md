@@ -1,3 +1,4 @@
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
@@ -10,7 +11,10 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-![Discord](https://discord.c99.nl/widget/theme-3/1014198346656792667.png)
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/1014198346656792667.png" alt="Discord">
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <a href="https://www.github.com/vishal889"><img src="https://komarev.com/ghpvc/?username=vishal889&style=for-the-badge&color=0F194C&label=👁+PROFILE+VIEWS" alt="vishal github profile views" /></a>
@@ -22,4 +26,9 @@
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
 - <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
+<br/>
+<br/>
+<br/>
 
+![Vishal's Github Stats](https://github-readme-stats.vercel.app/api?username=vishalonlyy&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalOnlyy&hide=TeX&layout=compact&theme=transparent&hide_border=true)
